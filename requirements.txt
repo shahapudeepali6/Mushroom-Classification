@@ -1,4 +1,11 @@
+
 pandas
 numpy
 matplotlib
 seaborn
+plotly
+SciPy
+statistics
+flask
+-e .
+src
